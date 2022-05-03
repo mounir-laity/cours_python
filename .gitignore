@@ -9,9 +9,7 @@ __pycache__/
 *$py.class
 
 #Projects et autres fichiers
-pendu/
 test.py
-012_modules/
 dog.jpg
 # C extensions
 *.so
