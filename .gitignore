@@ -11,6 +11,7 @@ __pycache__/
 #Projects et autres fichiers
 test.py
 dog.jpg
+013_dictionnaires/
 # C extensions
 *.so
 
